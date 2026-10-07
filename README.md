@@ -28,7 +28,7 @@
 
 <img
   width="400"
-  src="https://i.pinimg.com/736x/ed/f8/45/edf8452aebbb3c184025016a11b92816.jpg"
+  src="https://cdn.pfps.gg/banners/7233-black-cat.png"
 />
 
 </td>
