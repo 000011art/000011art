@@ -50,9 +50,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
-
 <br/>
-
 ![HTML5](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
