@@ -1,16 +1,104 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**000011art/000011art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td align="left" width="50%" valign="middle">
+
+<pre>
+◈  CLASSE    →  Desenvolvedor Front-end / Back-end
+◈  ORIGEM    →  Brasil 🇧🇷
+◈  STATUS    →  Aprendendo & Desenvolvendo
+◈  FOCO      →  Desenvolvimento Web
+</pre>
+
+<br>
+
+</td>
+
+<td align="right" width="50%" valign="top">
+
+<img
+  width="400"
+  src="https://i.pinimg.com/736x/ed/f8/45/edf8452aebbb3c184025016a11b92816.jpg"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/><br/>
+
+---
+
+## `TECNOLOGIAS`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
+
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+
+</div>
+
+## `ESTATÍSTICAS`
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=000011art&show_icons=true&hide_border=true&theme=dark">
+
+</div>
+
+</td>
+
+<td align="center">
+
+<img src="https://streak-stats.demolab.com?user=000011art&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff">
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## `LINGUAGENS MAIS UTILIZADAS`
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=000011art&layout=compact&theme=dark&bg_color=0d0d0d&title_color=FFFFFF&text_color=FFFFFF&hide_border=false&border_color=2a2a2a"
+/>
+
+</div>
+
+---
+</div>
